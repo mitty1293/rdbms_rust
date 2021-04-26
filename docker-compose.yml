@@ -1,0 +1,7 @@
+version: "3"
+services: 
+    rdbms_rust:
+        image: rust:1.51
+        container_name: rdbms_rust
+        volumes: 
+            - ./src:/rdbms_rust
