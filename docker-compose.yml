@@ -5,3 +5,4 @@ services:
         container_name: rdbms_rust
         volumes: 
             - ./src:/rdbms_rust
+        tty: true
