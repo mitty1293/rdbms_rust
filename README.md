@@ -2,9 +2,9 @@
 ## 概要
 [WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)の **特集3 Rustで実装！ 作って学ぶRDBMSのしくみ** をやってみるリポジトリ
 
+## サンプルコード
+https://github.com/KOBA789/relly
+
 ## Rust環境構築の参考
 https://www.rust-lang.org/ja  
 https://qiita.com/toully/items/1b652bec2048eefd3130
-
-## 題材ソ－スコード
-https://github.com/KOBA789/relly
