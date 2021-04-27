@@ -7,4 +7,5 @@ https://github.com/KOBA789/relly
 
 ## Rust環境構築の参考
 https://www.rust-lang.org/ja  
+https://doc.rust-jp.rs/book-ja/  
 https://qiita.com/toully/items/1b652bec2048eefd3130
