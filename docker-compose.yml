@@ -4,5 +4,5 @@ services:
         image: rust:1.51
         container_name: rdbms_rust
         volumes: 
-            - ./rdbmas_rust:/rdbms_rust
+            - ./rdbms_rust:/rdbms_rust
         tty: true
