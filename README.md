@@ -1,6 +1,6 @@
 # rdbms_rust
 ## 概要
-[WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)の **特集3 Rustで実装！ 作って学ぶRDBMSのしくみ** をやってみるリポジトリ
+[WEB+DB PRESS Vol.122](https://gihyo.jp/magazine/wdpress/archive/2021/vol122)の **特集3 Rustで実装！ 作って学ぶRDBMSのしくみ** をやってみる
 
 ## サンプルコード
 https://github.com/KOBA789/relly
